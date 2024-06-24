@@ -1,6 +1,6 @@
 # Gerador de Combinações de Números para Loterias
 
-Este projeto é um gerador de combinações de números para jogos de loteria em específico para a lotofácil que são 25 números podendo sendo alterado o código e executar em outras loterias com mais números. Ele permite aos usuários criar combinações aleatórias de números para diferentes tipos de loterias.
+Este projeto é um gerador de combinações de números para jogos de loteria em específico para a lotofácil que são 25 números podendo sendo alterado o código e executar em outras loterias como a lotomania,megasena entre outras com mais números.Ele permite aos usuários criar combinações aleatórias de números para diferentes tipos de loterias.
 
 ## Funcionalidades
 
